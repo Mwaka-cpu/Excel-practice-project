@@ -20,7 +20,7 @@
   -aimed to find the sales_value per region, sales_channel, sales person and per sale_month.
   -Added a sheet and named it 'Data analysis'-inserted pivot tables into the sheet to complete the analysis by draging 
    the sales_value to the values field and region, sales_channel,sales person id and sale_date to the rows respectively.
-  -sales person data was sorted the top 10 sales persons
+  -sales person data was sorted to the top 10 sales persons
 
   ### 4. Data Visualization
  -Added a new sheet 'Visualizatins'
